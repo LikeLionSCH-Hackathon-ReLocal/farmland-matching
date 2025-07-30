@@ -39,10 +39,10 @@
 ## 🛠️ 기술 스택
 
 - **Frontend**: React, TailwindCSS, Figma
-- **Backend**: Node.js, Express (예정)
-- **Database**: MongoDB / Firebase (예정)
+- **Backend**: (예정)
+- **Database**: (예정)
 - **Maps**: Kakao Maps API
-- **AI 기능**: 농지 정보 기반 수익 예측 (추후 도입)
+- **AI 기능**: 구매자-판매자 매칭 ,농지 정보 기반 수익 예측 (추후 도입)
 
 ---
 
@@ -63,7 +63,7 @@
 | 박성진 | 팀장 / FE | 전체 기획, UI 구현 |
 | 탁유진 | FE | UI 구현 |
 | 이석현 | BE | DB 및 API 설계 |
-| 서지현 | AI | 구매자-판매자 매칭 ,수익 예측 모델 |
+| 서지현 | AI | 구매자-판매자 매칭, 수익 예측 모델 |
 
 
 ---
