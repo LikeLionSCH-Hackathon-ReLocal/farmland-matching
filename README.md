@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="밭 볼텼유 로고" width="180" />
+</p>
 # 🌱 밭 볼텼유? — 신뢰 기반 농지 매칭 플랫폼  
 
 > **데이터로 가능성을, 신뢰로 계약을**  
