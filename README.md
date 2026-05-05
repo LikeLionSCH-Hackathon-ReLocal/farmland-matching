@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Logo.png" alt="밭 볼텼유 로고" width="180" />
+  <img src="./assets/Logo.png" alt="밭 볼텼유 로고" width="250" />
 </p>
 
 
